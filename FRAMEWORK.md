@@ -590,6 +590,94 @@ ICC allows us to:
 
 **Example:** "If the market is falling and you are trying to buy what you hope will become a higher low, the risk/reward ratio is not high enough and the stress is too great" - Brooks suggests waiting for the pullback to complete and entry on continuation.
 
+### Brooks on Breakouts (Most Fail!)
+
+> *"Most breakouts fail. Failures are especially common with trend channel line breakouts since they are an attempt to accelerate a trend and a trend tends to weaken over time."*
+
+**ICC Validation:**
+- ICC waits for CORRECTION before entry - not at breakout
+- This avoids the 70%+ of failed breakouts
+- ICC Continuation = breakout confirmed by returning to level
+- **DON'T enter at initial breakout - wait for correction**
+
+### Brooks on Spike and Channel (Trend Lifecycle)
+
+> *"Some form of this spike and channel behavior happens to some extent every day in all markets. The start of the channel usually becomes the start of an incipient trading range."*
+
+**Trend Lifecycle (Brooks):**
+1. **Spike:** Initial strong move (ICC Indication)
+2. **Channel:** Pullback/consolidation (ICC Correction)
+3. **Breakout:** Continuation or reversal
+4. **Trading Range:** Eventually forms
+
+**ICC Application:**
+- ICC Correction often = channel phase
+- ICC Continuation = resumption after channel
+- If no correction → extended move → climax risk
+
+### Brooks on Tests (ICC Correction = Test of Level)
+
+> *"A test means that the market is returning to an area of support or resistance... Traders often place trades based on the behavior at the test."*
+
+**Brooks Test = ICC Correction:**
+- ICC Correction = market testing broken structure
+- How price behaves at test = entry signal
+- **Strong rejection at test** = high probability ICC Continuation
+- **Weak/stalling at test** = lower probability
+
+### Brooks on Reversals (ICC Warning!)
+
+> *"Even though most traders think that a reversal is from a bull trend to a bear trend... most reversals fail to lead to an opposite trend and instead become a temporary transition from a bull or bear trend into a trading range."*
+
+**Brooks Quote:**
+> *"When there is a strong bull trend, it will resist change; almost every attempt at a reversal will end up as a bull flag, and the trend will then resume."*
+
+**ICC Rule:**
+- 80% of reversals fail = trend resumes
+- ICC Correction = failed reversal attempt
+- ICC Continuation = entry when original trend resumes
+- **ICC trades the 80% failure of reversals!**
+
+### Brooks on Signal Bars (ICC Entry Confirmation)
+
+> *"The single most important skill that a trader can develop is the ability to determine the times when there will be more buyers or sellers above or below the prior bar. Signal bars in the right context are times when there is such an imbalance."*
+
+**Brooks Signal Bar Checklist:**
+- ✅ Bull body (closes above open)
+- ✅ Small tail at bottom
+- ✅ Close above prior bar's close
+- ✅ Follow-through bar is strong
+- ✅ Not excessive overlap with prior bars
+
+**ICC Continuation Signal:**
+- ICC entry bar should be strong trend bar
+- Entry at/above signal bar high
+- SL below signal bar low
+
+### Brooks on Reversal Bars (ICC Entry Candle)
+
+**Bull Reversal Bar Requirements:**
+- Close above open (bull body)
+- Close above prior bar's close
+- Lower tail ~1/3 to 1/2 bar height
+- Small/no upper tail
+- Follow-through bar is strong bull trend bar
+
+**ICC Continuation Bar:**
+- Strong trend bar in direction of trade
+- Small tails
+- Close at/near extreme
+- Follow-through confirmed
+
+### Brooks on Two-Bar Reversals
+
+> *"Whenever the market tries to do something twice and fails, it usually then tries the opposite. This is why double tops and bottoms work..."*
+
+**Two-Bar Reversal = ICC Structure:**
+- First bar = Initial move
+- Second bar = Failed attempt = correction
+- Breakout from second bar = ICC Continuation
+
 ---
 
 ### Adam Grimes: Fundamental Trend Pattern (ICC Structure)
@@ -648,6 +736,69 @@ ICC allows us to:
 - ✅ Similar-sized impulse legs
 - ✅ No strong pullback momentum
 - = HIGH PROBABILITY ICC SETUP
+
+### Grimes on Measured Move Objective (ICC TP)
+
+> *"A rough profit target for the follow-through leg, the trend leg following the pullback, is the so-called measured move objective (MMO), which assumes that the CD leg will approximately equal the length of the AB leg."*
+
+**ICC Application:**
+- **AB** = Initial move (before correction)
+- **CD** = Expected continuation leg after correction
+- **Target:** CD ≈ AB length
+- **Treat as rough guideline** - don't expect exact match
+- **Use for RR calculation:** If CD ≈ AB, then RR is based on this relationship
+
+### Grimes on Three Pushes (ICC Warning!)
+
+> *"Three pushes... appears on a price chart as three drives to a new high or low after a somewhat extended trend. The pushes are usually symmetrical in time and in price."*
+
+**Three Pushes = Trend Warning:**
+- Third push often ends near trend line
+- Pattern suggests climax/exhaustion
+- **ICC Rule:** After 3 pushes, expect larger correction or reversal
+- Look for: 3 drives to new high/low, accelerating pace
+
+### Grimes on Simple vs Complex Pullbacks
+
+> *"It is extremely unusual to find a trend that has five large trend legs interrupted by four simple pullbacks; far more common would be five large trend legs interrupted by two simple and two complex pullbacks."*
+
+**ICC Trading Implication:**
+- Pullbacks alternate: simple → complex → simple → complex
+- If last pullback was simple → expect complex next
+- If last pullback was complex → expect simple next
+- **Use this to anticipate pullback type and plan entry**
+
+### Grimes on Pullback Failure Patterns (ICC Exit Rules)
+
+> *"Pullback trades fail in one of three ways:
+> 1. No momentum out of pullback → flat range
+> 2. Sharp countertrend momentum → pullback violated
+> 3. Next leg fails at previous swing extreme"*
+
+**ICC Exit Rules:**
+1. **No momentum after entry:** If pullback goes flat, exit
+2. **Sharp violation of entry:** Stop out - pullback failed
+3. **Failed at previous extreme:** Take partial profits, may reverse
+
+### Grimes on Profit Targets (ICC TP Strategy)
+
+> *"The pivot high or low of the setup leg is an ideal target and should be considered the first, most conservative profit target for any pullback trade."*
+
+**ICC TP Hierarchy:**
+1. **First Target:** Previous swing extreme (most conservative)
+2. **Second Target:** Next structure level beyond
+3. **Trailing Stop:** Move SL to breakeven after 1:1
+4. **Let winners run:** Don't exit early if momentum strong
+
+### Grimes on Lower Time Frame Pullbacks
+
+> *"Pullbacks are generally periods of lower activity compared to trend legs. Lower time frame ranges should be smaller in most pullbacks."*
+
+**ICC Entry Confirmation:**
+- Look for LTF consolidation during ICC Correction
+- Smaller ranges on LTF = healthy correction
+- If LTF shows strong countertrend move = warning sign
+- **ICC = Wait for LTF to confirm correction complete**
 
 ---
 
@@ -903,8 +1054,8 @@ AFTER TRADE:
 
 | Book | Author | Status | ICC Relevance |
 |------|--------|--------|--------------|
-| **Trading Price Action Trends** | Al Brooks | ~30% read ✅ | Bar counting, High 1/2, 50/50 market, climax warning, 80% reversals fail |
-| **Art & Science of TA** | Adam Grimes | ~25% read ✅ | Fundamental pattern, climax warning, fractal markets |
+| **Trading Price Action Trends** | Al Brooks | ~35% read ✅ | Bar counting, High 1/2, breakouts fail, spike/channel, reversal bars, signal bars |
+| **Art & Science of TA** | Adam Grimes | ~30% read ✅ | Fundamental pattern, measured move, three pushes, complex pullbacks, failure patterns |
 | **Candlestick Charting** | Steve Nison | ✅ Done | Hammer, engulfing confirmation |
 | **Volume Price Analysis** | Anna Coulling | ✅ Done | VPA, smart money tracking |
 | **Price Action Breakdown** | Laurentiu Damir | ✅ Done | Value areas, control prices |
