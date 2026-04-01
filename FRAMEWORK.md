@@ -492,6 +492,104 @@ ICC allows us to:
 
 **ICC Rule:** Wait for confirmation (Continuation) before entering. Don't enter at breakout!
 
+### Brooks on Market Reality (50/50 Most of Time)
+
+> *"There is a 50 percent chance that the next tick will be up and a 50 percent chance that it will be down. In fact, during most of the trading day, you can expect that the market has a 50–50 chance of moving up X points before falling X points. The odds drift to maybe 60–40 at times during the day."*
+
+**ICC Validation:**
+- **ICC 78% WR comes from ONLY trading high-probability setups**
+- Don't trade when odds are 50/50 - wait for the 60%+ opportunities
+- ICC's correction filter identifies these high-probability zones
+
+### Brooks on Trend Bars vs Doji Bars
+
+> *"Every bar is either a trend bar or a doji bar. A doji bar means that the bulls and bears are in balance."*
+
+**Trend Bar Characteristics:**
+- Body is moderate size (not too large = could be climax)
+- Close trends away from open
+- Small tails
+- Opens near low (bull), near high (bear)
+- Closes near high (bull), near low (bear)
+
+**ICC Entry Context:**
+- ✅ Look for ICC Continuation in strong trend bar sequences
+- ⚠️ Avoid ICC after large climactic trend bars (reversal likely)
+- ⚠️ Doji bars indicate balance = wait for direction
+
+### Brooks on Cumulative Pressure (ICC Continuation Signal)
+
+> *"Selling pressure is cumulative, and the more bear bodies and the larger the bodies, the more likely it is that the pressure will reach a critical point and overwhelm the bulls..."*
+
+**ICC Implication:**
+- Look for accumulation of buying pressure in pullbacks
+- Each bar with bull body in correction = buying pressure
+- Buying pressure buildup = higher probability ICC Continuation
+- If correction shows mostly dojis/small bars = weak pressure = lower probability
+
+### Brooks on Reversal Failure (80% Become Bull Flags)
+
+> *"The market is always trying to reverse, but 80 percent of those reversal attempts fail and become bull flags."*
+
+**ICC Validation - This is EXACTLY what ICC trades:**
+- ICC Correction = 80% of reversal attempts fail
+- ICC Continuation = Entry when reversal fails and trend resumes
+- ICC 78% WR aligns with Brooks' 80% failure rate of reversals
+
+**Brooks Quote:**
+> *"At the time the reversal attempt is occurring, the two or three bear bars can be very persuasive, but without follow-through selling, the bulls see the sell-off as a great opportunity to get long again near the low of a brief sell climax."*
+
+### Brooks on Institutional Activity (ICC = Piggyback Trading)
+
+> *"Since institutional activity controls the move and their volume is so huge, and they place most of their trades with the intention of holding them for hours to months, most will not be looking to scalp..."*
+
+**ICC Strategy = Piggyback on Institutions:**
+- Institutions drive price action
+- ICC enters where institutions entered (at broken structure)
+- Institutions defend their entries = ICC SL at structure is protected
+- Don't fight institutions = trade with them using ICC
+
+### Brooks on Measured Moves & Fibonacci
+
+> *"Fibonacci retracements and extensions are a part of price action, but since most are just approximations and most fail, they only occasionally are helpful in trading."*
+
+**ICC Approach:**
+- ✅ Use structure levels (swing highs/lows) for entry/SL/TP
+- ✅ Use chart patterns that stand alone
+- ⚠️ Don't rely on Fibonacci levels as primary decision tool
+- Fibonacci is approximation, structure is concrete
+
+### Brooks on Climax Patterns (ICC Entry AVOID)
+
+**Brooks Quote:**
+> *"Whenever there is a climax top that takes place over many bars, it is always a single reversal bar on some higher time frame chart..."*
+
+**ICC AVOID Entry Conditions:**
+- ❌ After consecutive large trend bars (climax forming)
+- ❌ After parabolic moves
+- ❌ When all recent bars closing at extremes
+- ❌ After extended channel moves without pullback
+
+**Climax → Reversal = ICC Correction becomes Trend Change**
+- Wait for pullback after climax
+- If pullback is sharp and deep = trend change likely
+- If pullback is shallow = trend resumption (ICC Continuation)
+
+### Brooks on Two-Legged Pullbacks (ICC Correction Structure)
+
+**Brooks Quote:**
+> *"Two-legged corrections are reliable setups for trades in the direction of the trend."*
+
+**Brooks ABC = ICC Structure:**
+
+| Brooks ABC | ICC Term | Description |
+|-----------|----------|-------------|
+| A leg | Before Correction | Initial move (before pullback) |
+| B leg | ICC Correction | Pullback from A |
+| C leg | ICC Continuation | Final leg, breakout = entry |
+
+**Example:** "If the market is falling and you are trying to buy what you hope will become a higher low, the risk/reward ratio is not high enough and the stress is too great" - Brooks suggests waiting for the pullback to complete and entry on continuation.
+
 ---
 
 ### Adam Grimes: Fundamental Trend Pattern (ICC Structure)
@@ -805,8 +903,8 @@ AFTER TRADE:
 
 | Book | Author | Status | ICC Relevance |
 |------|--------|--------|--------------|
-| **Trading Price Action Trends** | Al Brooks | ~25% read ✅ | Bar counting, High 1/2, 60% probability |
-| **Art & Science of TA** | Adam Grimes | ~20% read ✅ | Fundamental pattern, climax warning |
+| **Trading Price Action Trends** | Al Brooks | ~30% read ✅ | Bar counting, High 1/2, 50/50 market, climax warning, 80% reversals fail |
+| **Art & Science of TA** | Adam Grimes | ~25% read ✅ | Fundamental pattern, climax warning, fractal markets |
 | **Candlestick Charting** | Steve Nison | ✅ Done | Hammer, engulfing confirmation |
 | **Volume Price Analysis** | Anna Coulling | ✅ Done | VPA, smart money tracking |
 | **Price Action Breakdown** | Laurentiu Damir | ✅ Done | Value areas, control prices |
