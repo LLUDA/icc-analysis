@@ -450,6 +450,109 @@ ICC allows us to:
 
 ---
 
+## Deep Technical Insights - Al Brooks & Adam Grimes
+
+### Al Brooks: Bar Counting (High 1, High 2, Low 1, Low 2)
+
+**This is exactly how ICC identifies structure:**
+
+| Brooks Pattern | ICC Term | Description |
+|---------------|----------|-------------|
+| **High 1** | ICC Indication | First bar with high above prior = end of first leg up |
+| **High 2** | ICC Continuation Entry | Second attempt = ABC correction entry |
+| **Low 1** | ICC Indication | First bar with low below prior = end of first leg down |
+| **Low 2** | ICC Continuation Entry | Second attempt = ABC correction entry |
+
+**Brooks Quote:**
+> *"A high 2 in a bull trend and a low 2 in a bear trend are often referred to as ABC corrections where the first leg is the A, the change in direction that forms the high 1 or low 1 entry is the B, and the final leg of the pullback is the C. The breakout from the C is a high 2 entry bar in a bull ABC correction..."*
+
+**ICC Mapping:**
+- **A** = Initial move (before correction)
+- **B** = Pullback (ICC Correction)
+- **C** = Final leg down/up
+- **Breakout from C** = ICC Continuation entry (High 2/Low 2)
+
+### Brooks on Probability (ICC Validation)
+
+> *"During the spike phase of a strong trend, the probability may be 70 percent or more that the trend will continue over the next few bars..."*
+
+> *"As a strong breakout trend move is forming, if you choose a value for X that is less than the height of the current breakout, the probability is 60 percent or better that you will be able to exit with X ticks profit before a protective stop X ticks away is hit."*
+
+**ICC Validation:** 78% WR is achievable because ICC only enters after corrections in strong trends.
+
+### Brooks on Stop Placement
+
+> *"There is often a pullback that tests the entry bar's extreme to the tick... It is fairly common to see a pullback that comes down exactly to the low of that entry bar but not one tick lower."*
+
+**ICC Rule:** Place SL at structure level, not at obvious stop levels (avoid stop hunting).
+
+### Brooks on Most Breakouts Fail
+
+> *"If the market breaks out to the upside and then the next bar is a small inside bar (its high is not higher than that of the large breakout bar) and then the following bar has a low that is below this small bar, the odds of a failed breakout and a reversal back down increase considerably."*
+
+**ICC Rule:** Wait for confirmation (Continuation) before entering. Don't enter at breakout!
+
+---
+
+### Adam Grimes: Fundamental Trend Pattern (ICC Structure)
+
+**Grimes describes ICC exactly:**
+
+> *"The fundamental pattern of market movement on all time frames is this: a movement in one direction, a countertrend retracement in the other direction, and another leg in the original direction."*
+
+**ICC = Grimes' Fundamental Pattern:**
+
+| Grimes | ICC Term |
+|--------|----------|
+| Movement in one direction | Initial move (before correction) |
+| Countertrend retracement | ICC Correction |
+| Another leg in original direction | ICC Continuation |
+
+### Grimes on Fractal Markets
+
+> *"Markets are fractal in nature, meaning that essentially the same patterns appear on all time frames."*
+
+**ICC is fractal:**
+- Indication/Correction/Continuation exists on ALL timeframes
+- 4H = higher timeframe context
+- 1H = trading timeframe
+- 15M/5M = entry confirmation
+
+### Grimes on Pullback Quality (ICC Filter)
+
+> *"The character and extent of the pullback can give some insight into the buying pressure behind the market. If buyers are aggressively accumulating positions, then they will not let the market come in as much on the retracements; they will step up and buy aggressively at higher prices. This will result in shallower, smaller pullbacks."*
+
+**ICC Filter Validation:**
+- **Shallow pullback (<50%)** = Strong buying pressure = Higher probability continuation
+- **Deep pullback (>80%)** = Weak buying pressure = Lower probability, may reverse
+
+### Grimes on Climax Patterns (ICC Warning)
+
+**Avoid ICC entries following climax moves!**
+
+> *"Extremely strong impulse moves are more indicative of climax or exhaustion. This is one of the common ways that trends end."*
+
+**Climax characteristics (ICC warnings):**
+- ✅ Come after 2+ trend legs in same direction
+- ✅ Show acceleration (parabolic)
+- ✅ Large range bars outside channels
+- ✅ High volume spikes
+- ✅ Many bars closing at extremes
+
+**ICC Rule:** If you see climax characteristics, DON'T enter the pullback. Trend may be exhausted.
+
+### Grimes on Trend Strength
+
+> *"The most important patterns are: new momentum highs or lows, subsequent trend legs making similar new impulse moves, and the absence of strong countertrend momentum on pullbacks."*
+
+**ICC Confirmation:**
+- ✅ Higher highs/lows forming
+- ✅ Similar-sized impulse legs
+- ✅ No strong pullback momentum
+- = HIGH PROBABILITY ICC SETUP
+
+---
+
 ## ULTIMATE ICC FRAMEWORK - Validated by 5 Masters
 
 | Concept | Brooks | Grimes | Nison | Coulling | Damir | ICC Rule |
@@ -468,12 +571,13 @@ ICC allows us to:
 ICC ENTRY CONDITIONS (All 5 Masters Agree):
 
 1. ✅ Higher timeframe trend established (Brooks, Grimes, Nison, Coulling, Damir)
-2. ✅ Price broke structure (Indication) (Damir, Grimes)
+2. ✅ Price broke structure (Indication) (Damir, Grimes, Brooks)
 3. ✅ Price returned to level (Correction) (All 5)
-4. ✅ Shallow correction (<80%) (Brooks, Damir)
-5. ✅ Price action rejection at level (Nison, Grimes)
+4. ✅ Shallow correction (<80%) (Brooks, Damir, Grimes)
+5. ✅ Price action rejection at level (Nison, Grimes, Brooks)
 6. ✅ Volume confirming move (Coulling, Damir)
 7. ✅ RR ≥ 1.5:1 (Al Brooks)
+8. ✅ NOT after climax (Grimes)
 ```
 
 ---
@@ -701,8 +805,8 @@ AFTER TRADE:
 
 | Book | Author | Status | ICC Relevance |
 |------|--------|--------|--------------|
-| **Trading Price Action Trends** | Al Brooks | ~17% read | Correction depth, bar counting |
-| **Art & Science of TA** | Adam Grimes | ~12% read | Failure test, pullback entry |
+| **Trading Price Action Trends** | Al Brooks | ~25% read ✅ | Bar counting, High 1/2, 60% probability |
+| **Art & Science of TA** | Adam Grimes | ~20% read ✅ | Fundamental pattern, climax warning |
 | **Candlestick Charting** | Steve Nison | ✅ Done | Hammer, engulfing confirmation |
 | **Volume Price Analysis** | Anna Coulling | ✅ Done | VPA, smart money tracking |
 | **Price Action Breakdown** | Laurentiu Damir | ✅ Done | Value areas, control prices |
