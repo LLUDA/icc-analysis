@@ -678,6 +678,149 @@ ICC allows us to:
 - Second bar = Failed attempt = correction
 - Breakout from second bar = ICC Continuation
 
+### Brooks on Inside Bars (ii, iii patterns)
+
+> *"An ii pattern is an inside bar that follows a larger inside bar. It is two in a row with the second being inside the first."*
+
+**ICC Application:**
+- **ii pattern** = Two consecutive inside bars
+- **iii pattern** = Three consecutive inside bars (stronger)
+- These are smaller time frame reversals
+- After trend move + ii/iii = potential ICC Continuation entry
+
+**Brooks Quote:**
+> *"A 5 minute ii pattern is often a 1 minute double bottom pullback in a bull trend."*
+
+### Brooks on Micro Double Bottoms/Tops
+
+> *"A micro double bottom is consecutive or nearly consecutive bars with identical or nearly identical lows."*
+
+**ICC Entry Context:**
+- Micro double bottom in uptrend = buy setup
+- Micro double top in downtrend = sell setup
+- **Wait for breakout above/below the pattern**
+
+### Brooks on Shaved Bars (No Tails = Strength)
+
+> *"A shaved bar has no tail at one or both of its extremes. It is a setup only when it forms in a strong trend."*
+
+**ICC Entry Confirmation:**
+- Bull trend bar with no upper tail = strength
+- Bear trend bar with no lower tail = strength
+- Shaved bar in strong trend = high probability continuation
+
+### Brooks on Big Trend Bars = Exhaustion
+
+> *"An unusually large trend bar in the direction of the trend can often represent an emotional exhaustion of a trend."*
+
+**ICC AVOID After:**
+- Large trend bar after 10+ bars in same direction
+- Climactic move = reversal likely
+- **Wait for correction before ICC entry**
+
+### Brooks on All Bars in Channel
+
+> *"When there is a strong bull channel, bulls will place limit orders to buy at or below the low of the prior bar, and bears will place limit orders to short at or above the high."*
+
+**ICC Correction = Channel Pause:**
+- Each bar in channel is potential entry
+- Small bars in pullback = with-trend setup
+- **Look for ICC entry at channel lows in uptrend**
+
+### Brooks on First Hour Reversals
+
+> *"Always be ready for a reversal in the first hour or so."*
+
+**ICC Special Cases:**
+- First hour often sets the day's range extremes
+- Wait for first hour structure before ICC entries
+- Reversals common = don't fight early direction
+
+### Brooks on Doji Bars (Balance = Wait)
+
+> *"Large doji bars are rarely good signal bars because they are one-bar trading ranges."*
+
+**ICC Rule:**
+- Large doji = balance between bulls/bears
+- Don't enter ICC when market is balanced
+- **Wait for directional bar to confirm**
+
+---
+
+## Grimes on Support/Resistance (The Dark Secret!)
+
+### Grimes' Shocking Discovery
+
+> *"Almost any random line drawn in the market will function as believable support or resistance."*
+
+**ICC Implication:**
+- Don't over-rely on precise S/R levels
+- Use a **zone**, not a exact line
+- The "magic" of S/R is partly illusion
+- **ICC structure levels > arbitrary S/R lines**
+
+### Grimes on Clean vs Sloppy Tests
+
+> *"Support and resistance often do not hold perfectly clean tests."*
+
+**ICC Application:**
+- Some levels are messy (sloppy)
+- If level was violated messily before = expect messy again
+- Clean tests = more reliable bounces
+- **Use zones, not exact levels**
+
+### Grimes on Stop Placement
+
+**Three Options:**
+1. **Beyond the extreme** - Safest, respects geometry
+2. **One tick beyond level** - Visible to everyone (stop hunting risk)
+3. **Few ticks beyond** - Avoid - just increases loss if hit
+
+**ICC SL Rule:**
+- Place at structure level (Brooks)
+- Don't stack with obvious stops
+- Allow some room for noise
+
+---
+
+### Adam Grimes: Length of Swing Analysis
+
+> *"In an uptrend the upswings must be longer than the downswing."*
+
+**ICC Validation:**
+- Uptrend = higher highs + higher lows
+- Each impulse leg should be significant
+- **ICC Indication = when upswings > downswing**
+
+### Grimes on Trend Line Breaks
+
+> *"It is also possible for a market to define a new, steeper trend."*
+
+**ICC Context:**
+- Line break = potential trend change
+- But often just a rate change, not reversal
+- **Wait for pullback after line break = ICC Correction**
+
+### Grimes on Parallel Channel Lines
+
+> *"The purpose of the parallel trend line is to create a trend channel that shows the range of fluctuations."*
+
+**ICC Channel Trading:**
+- Bottom of channel = potential ICC Correction area
+- Top of channel = potential TP area
+- Break of parallel line = acceleration, higher TP possible
+
+### Grimes on Character of Trend Legs
+
+**Factors to Assess:**
+1. Length of swing (longer = stronger, but 2-3x average = climax)
+2. Bar heights (larger = more conviction)
+3. Close position (at extreme = exhaustion)
+4. LTF pullbacks within leg (clean = strong)
+5. HTF considerations (resistance/support zones)
+
+**ICC Entry Quality = All factors aligned**
+
 ---
 
 ### Adam Grimes: Fundamental Trend Pattern (ICC Structure)
@@ -1054,8 +1197,8 @@ AFTER TRADE:
 
 | Book | Author | Status | ICC Relevance |
 |------|--------|--------|--------------|
-| **Trading Price Action Trends** | Al Brooks | ~35% read ✅ | Bar counting, High 1/2, breakouts fail, spike/channel, reversal bars, signal bars |
-| **Art & Science of TA** | Adam Grimes | ~30% read ✅ | Fundamental pattern, measured move, three pushes, complex pullbacks, failure patterns |
+| **Trading Price Action Trends** | Al Brooks | ~40% read ✅ | Bar counting, High 1/2, breakouts fail, spike/channel, reversal bars, signal bars, inside bars, shaved bars |
+| **Art & Science of TA** | Adam Grimes | ~35% read ✅ | Fundamental pattern, measured move, three pushes, complex pullbacks, S/R dark secret, swing analysis |
 | **Candlestick Charting** | Steve Nison | ✅ Done | Hammer, engulfing confirmation |
 | **Volume Price Analysis** | Anna Coulling | ✅ Done | VPA, smart money tracking |
 | **Price Action Breakdown** | Laurentiu Damir | ✅ Done | Value areas, control prices |
